@@ -7,3 +7,4 @@ How to use:
 - Install dependencies with `pip install -r requirements.txt`
 - Rename .env.example to .env and paste your openai API key after OPENAI_API_KEY=
 - Launch the app with `python app.py`
+- You will find your app running on http://127.0.0.1:5000
